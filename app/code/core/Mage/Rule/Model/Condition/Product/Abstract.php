@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Rule
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setAttributeOption(array $value)
  * @method string getJsFormObject()

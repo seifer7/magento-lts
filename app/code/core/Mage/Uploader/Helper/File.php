@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Uploader
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Uploader_Helper_File extends Mage_Core_Helper_Abstract
 {

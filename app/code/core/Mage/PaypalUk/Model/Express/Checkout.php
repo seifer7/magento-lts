@@ -19,6 +19,7 @@
  *
  * @category   Mage
  * @package    Mage_PaypalUk
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_PaypalUk_Model_Express_Checkout extends Mage_Paypal_Model_Express_Checkout
 {

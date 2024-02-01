@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Adminhtml
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setHeaderCss(string $value)
  * @method $this setTitle(string $value)

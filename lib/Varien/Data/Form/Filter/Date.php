@@ -18,6 +18,7 @@
  *
  * @category   Varien
  * @package    Varien_Data
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Varien_Data_Form_Filter_Date implements Varien_Data_Form_Filter_Interface
 {

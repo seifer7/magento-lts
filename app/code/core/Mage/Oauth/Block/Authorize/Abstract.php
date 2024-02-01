@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Oauth
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string getToken()
  * @method Mage_Oauth_Block_AuthorizeBaseAbstract setToken(string $token)

@@ -18,6 +18,7 @@
 *
 * @category    Mage
 * @package     Mage_Archive
+* @author      Magento Core Team <core@magentocommerce.com>
 */
 class Mage_Archive_Helper_File_Bz extends Mage_Archive_Helper_File
 {

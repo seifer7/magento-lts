@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_ProductAlert
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_ProductAlert_Model_Resource_Stock _getResource()
  * @method Mage_ProductAlert_Model_Resource_Stock getResource()

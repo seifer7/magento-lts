@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Tag
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  */
 class Mage_Tag_Model_Mysql4_Popular_Collection extends Mage_Tag_Model_Resource_Popular_Collection

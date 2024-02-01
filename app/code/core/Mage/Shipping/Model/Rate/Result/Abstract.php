@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Shipping
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string getCarrier()
  * @method string getCarrierTitle()

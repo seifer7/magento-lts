@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Newsletter
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Newsletter_Model_Problem[] getItems()
  * @method Mage_Newsletter_Model_Problem[] getItemsByColumnValue(string $column, string $value)

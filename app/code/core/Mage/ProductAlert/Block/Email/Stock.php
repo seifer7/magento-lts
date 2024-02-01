@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_ProductAlert
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_ProductAlert_Block_Email_Stock extends Mage_ProductAlert_Block_Email_Abstract
 {

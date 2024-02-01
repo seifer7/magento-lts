@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Checkout
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setAdditionalMessages(array $value)
  *

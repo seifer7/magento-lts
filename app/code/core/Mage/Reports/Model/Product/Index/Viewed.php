@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Reports
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Reports_Model_Resource_Product_Index_Viewed _getResource()
  * @method Mage_Reports_Model_Resource_Product_Index_Viewed getResource()

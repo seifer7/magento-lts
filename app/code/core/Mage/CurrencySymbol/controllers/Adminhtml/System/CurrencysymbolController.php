@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_CurrencySymbol
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_CurrencySymbol_Adminhtml_System_CurrencysymbolController extends Mage_Adminhtml_Controller_Action
 {

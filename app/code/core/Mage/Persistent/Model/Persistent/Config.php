@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Persistent
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Persistent_Model_Persistent_Config
 {

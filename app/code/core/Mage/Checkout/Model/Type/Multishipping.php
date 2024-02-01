@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Checkout
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method bool getCollectRatesFlag()
  * @method $this setCollectRatesFlag(bool $value)

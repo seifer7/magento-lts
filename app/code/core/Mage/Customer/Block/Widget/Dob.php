@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Customer
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method DateTime getTime()
  * @method $this setTime(string $value)

@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Shipping
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setActiveFlag(bool $value)
  * @method array getAllowedMethods()

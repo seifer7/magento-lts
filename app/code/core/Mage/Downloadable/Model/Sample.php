@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Downloadable
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Downloadable_Model_Resource_Sample _getResource()
  * @method Mage_Downloadable_Model_Resource_Sample getResource()

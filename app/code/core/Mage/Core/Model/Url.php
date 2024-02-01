@@ -63,6 +63,7 @@
  *
  * @category   Mage
  * @package    Mage_Core
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setType(string $value)
  * @method $this setSecure(bool $value)

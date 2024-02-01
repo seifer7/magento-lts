@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Downloadable
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Downloadable_CustomerController extends Mage_Core_Controller_Front_Action
 {

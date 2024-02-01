@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Review
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setDisplayIfEmpty(bool $value)
  * @method Mage_Catalog_Model_Product getProduct()

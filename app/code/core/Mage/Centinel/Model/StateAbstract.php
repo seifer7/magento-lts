@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Centinel
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 abstract class Mage_Centinel_Model_StateAbstract extends Varien_Object
 {

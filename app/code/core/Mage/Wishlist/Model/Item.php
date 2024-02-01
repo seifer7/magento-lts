@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Wishlist
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Wishlist_Model_Resource_Item _getResource()
  * @method Mage_Wishlist_Model_Resource_Item getResource()

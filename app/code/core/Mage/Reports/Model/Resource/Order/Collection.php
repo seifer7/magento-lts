@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Reports
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Sales_Model_Order getFirstItem()
  */

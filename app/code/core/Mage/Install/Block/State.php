@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Install
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Install_Block_State extends Mage_Core_Block_Template
 {

@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_SalesRule
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_SalesRule_Model_Resource_Report_Rule_Createdat extends Mage_Reports_Model_Resource_Report_Abstract
 {

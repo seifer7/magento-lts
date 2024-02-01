@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Rating
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Rating_Model_Rating_Option_Vote[] getItems()
  */

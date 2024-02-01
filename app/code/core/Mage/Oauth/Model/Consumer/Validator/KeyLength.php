@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Oauth
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Oauth_Model_Consumer_Validator_KeyLength extends Zend_Validate_StringLength
 {

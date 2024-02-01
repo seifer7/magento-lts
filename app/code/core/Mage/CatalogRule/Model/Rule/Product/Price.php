@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_CatalogRule
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_CatalogRule_Model_Resource_Rule_Product_Price _getResource()
  * @method Mage_CatalogRule_Model_Resource_Rule_Product_Price getResource()

@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Adminhtml
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Tax_Model_Resource_Calculation_Rule_Collection getCollection()
  */

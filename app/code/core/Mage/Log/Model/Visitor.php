@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Log
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Log_Model_Resource_Visitor getResource()
  * @method int getCustomerId()

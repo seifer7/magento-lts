@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Catalog
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Catalog_Model_Product getItemById($value)
  * @method Mage_Catalog_Model_Product[] getItems()

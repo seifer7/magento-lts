@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Catalog
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 interface Mage_Catalog_Model_Product_Condition_Interface
 {

@@ -15,6 +15,7 @@
 /**
  * @category   Mage
  * @package    Mage_Shipping
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Shipping_Block_Tracking_Ajax extends Mage_Core_Block_Template
 {

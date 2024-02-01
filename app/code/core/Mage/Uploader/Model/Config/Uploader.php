@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Uploader
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setTarget(string $url)
  *      The target URL for the multipart POST request.

@@ -19,6 +19,7 @@
  *
  * @category   Mage
  * @package    Mage_Index
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Index_Model_Resource_Abstract _getResource()
  */

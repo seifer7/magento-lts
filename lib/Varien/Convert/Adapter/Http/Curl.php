@@ -18,6 +18,7 @@
  *
  * @category   Varien
  * @package    Varien_Convert
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Varien_Convert_Adapter_Http_Curl extends Varien_Convert_Adapter_Abstract
 {

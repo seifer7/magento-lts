@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Authorizenet
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Authorizenet_Model_Directpost extends Mage_Paygate_Model_Authorizenet
 {

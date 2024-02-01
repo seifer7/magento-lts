@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Sales
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Sales_Model_Resource_Report_Refunded_Collection_Order extends Mage_Sales_Model_Resource_Report_Collection_Abstract
 {

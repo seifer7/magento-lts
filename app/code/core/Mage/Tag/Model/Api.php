@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Tag
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Tag_Model_Api extends Mage_Catalog_Model_Api_Resource
 {

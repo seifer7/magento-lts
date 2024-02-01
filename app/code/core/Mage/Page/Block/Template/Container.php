@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Page
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Page_Block_Template_Container extends Mage_Core_Block_Template
 {

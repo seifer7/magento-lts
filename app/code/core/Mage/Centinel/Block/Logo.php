@@ -17,6 +17,7 @@
  *
  * @category   Mage
  * @package    Mage_Centinel
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Centinel_Block_Logo extends Mage_Core_Block_Template
 {

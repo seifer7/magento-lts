@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Bundle
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method bool getFirstShow()
  * @method string getIndex()

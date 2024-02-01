@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Widget
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Widget_Model_Resource_Widget_Instance _getResource()
  * @method Mage_Widget_Model_Resource_Widget_Instance getResource()

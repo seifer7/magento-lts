@@ -21,6 +21,7 @@
  *
  * @category   Mage
  * @package    Mage_Paypal
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Paypal_Model_Resource_Report_Settlement _getResource()
  * @method Mage_Paypal_Model_Resource_Report_Settlement getResource()

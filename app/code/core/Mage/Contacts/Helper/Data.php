@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Contacts
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Contacts_Helper_Data extends Mage_Core_Helper_Abstract
 {

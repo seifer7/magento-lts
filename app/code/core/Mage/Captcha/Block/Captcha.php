@@ -18,6 +18,7 @@
  *
  * @category   Core
  * @package    Mage_Captcha
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string getFormId()
  */

@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Directory
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @property Mage_Directory_Model_Country[] $_items
  */

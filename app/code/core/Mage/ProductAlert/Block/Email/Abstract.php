@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_ProductAlert
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 abstract class Mage_ProductAlert_Block_Email_Abstract extends Mage_Core_Block_Template
 {

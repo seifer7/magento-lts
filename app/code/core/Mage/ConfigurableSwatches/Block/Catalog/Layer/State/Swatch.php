@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_ConfigurableSwatches
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setJsonConfig(string $value)
  * @method int getSwatchInnerHeight()

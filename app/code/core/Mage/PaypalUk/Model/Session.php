@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_PaypalUk
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_PaypalUk_Model_Session extends Mage_Core_Model_Session_Abstract
 {

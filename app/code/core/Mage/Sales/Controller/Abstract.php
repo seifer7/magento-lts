@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Sales
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 abstract class Mage_Sales_Controller_Abstract extends Mage_Core_Controller_Front_Action
 {

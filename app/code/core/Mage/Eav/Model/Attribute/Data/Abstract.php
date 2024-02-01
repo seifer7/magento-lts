@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Eav
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 abstract class Mage_Eav_Model_Attribute_Data_Abstract
 {

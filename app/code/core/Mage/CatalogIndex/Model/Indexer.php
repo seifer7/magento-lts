@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_CatalogIndex
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_CatalogIndex_Model_Resource_Indexer _getResource()
  * @method Mage_CatalogIndex_Model_Resource_Indexer getResource()

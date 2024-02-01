@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_SalesRule
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 interface Mage_SalesRule_Model_Coupon_CodegeneratorInterface
 {

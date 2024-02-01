@@ -17,6 +17,7 @@
  *
  * @category   Mage
  * @package    Mage_Payment
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 interface Mage_Payment_Model_Billing_Agreement_MethodInterface
 {

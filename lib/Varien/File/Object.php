@@ -18,6 +18,7 @@
  * *
  * @category   Varien
  * @package    Varien_File
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 
 require_once("Varien/Object.php");

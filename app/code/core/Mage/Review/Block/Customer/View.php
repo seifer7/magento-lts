@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Review
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string getReviewId()
  * @method $this setReviewId(string $value)

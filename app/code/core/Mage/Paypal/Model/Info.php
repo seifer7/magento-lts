@@ -22,6 +22,7 @@
  *
  * @category   Mage
  * @package    Mage_Paypal
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Paypal_Model_Info
 {

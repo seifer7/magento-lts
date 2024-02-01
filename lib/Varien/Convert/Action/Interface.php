@@ -18,6 +18,7 @@
  *
  * @category   Varien
  * @package    Varien_Convert
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 interface Varien_Convert_Action_Interface
 {

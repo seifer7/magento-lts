@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_CatalogRule
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_CatalogRule_Model_Resource_Rule extends Mage_Rule_Model_Resource_Abstract
 {

@@ -17,6 +17,7 @@
  *
  * @category   Mage
  * @package    Mage_PaypalUk
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_PaypalUk_Block_Bml_Form extends Mage_Paypal_Block_Bml_Form
 {

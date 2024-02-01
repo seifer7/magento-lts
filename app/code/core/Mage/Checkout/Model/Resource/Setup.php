@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Checkout
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Checkout_Model_Resource_Setup extends Mage_Eav_Model_Entity_Setup
 {

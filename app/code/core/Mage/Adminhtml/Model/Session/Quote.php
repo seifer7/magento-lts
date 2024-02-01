@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Adminhtml
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method array getAllowQuoteItemsGiftMessage()
  * @method $this setAllowQuoteItemsGiftMessage(array $value)

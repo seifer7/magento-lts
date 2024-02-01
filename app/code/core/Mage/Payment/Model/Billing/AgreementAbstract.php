@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Payment
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string getMethodCode()
  * @method string getReferenceId()

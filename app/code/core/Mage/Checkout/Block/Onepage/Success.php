@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Checkout
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setCanViewProfiles(bool $value)
  * @method $this setRecurringProfiles(Mage_Sales_Model_Recurring_Profile[] $value)

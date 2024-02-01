@@ -18,6 +18,7 @@
  *
  * @category   Varien
  * @package    Varien_Event
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Varien_Event extends Varien_Object
 {

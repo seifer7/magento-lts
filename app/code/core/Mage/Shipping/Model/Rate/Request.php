@@ -47,6 +47,7 @@
  *
  * @category   Mage
  * @package    Mage_Shipping
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Sales_Model_Quote_Item[] getAllItems()
  * @method $this setAllItems(array $items)

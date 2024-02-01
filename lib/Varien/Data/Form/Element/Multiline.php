@@ -16,6 +16,7 @@
 /**
  * Form multiline text elements
  *
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method int getLineCount()
  * @method $this setLineCount(int $value)

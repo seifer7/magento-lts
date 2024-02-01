@@ -19,6 +19,7 @@
  *
  * @category Varien
  * @package  Varien_Date
+ * @author   Magento Core Team <core@magentocommerce.com>
  */
 class Varien_Date
 {

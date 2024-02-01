@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Widget
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Widget_Model_Observer
 {

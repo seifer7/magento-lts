@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Rss
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Admin_Model_User getAdmin()
  * @method $this setAdmin(Mage_Admin_Model_User $value)

@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Paypal
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Paypal_Model_Payflowpro extends Mage_Payment_Model_Method_Cc
 {

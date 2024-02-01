@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Usa
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Usa_Block_Adminhtml_Dhl_Unitofmeasure extends Mage_Adminhtml_Block_System_Config_Form_Field
 {

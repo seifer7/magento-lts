@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Centinel
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Centinel_Model_Config
 {

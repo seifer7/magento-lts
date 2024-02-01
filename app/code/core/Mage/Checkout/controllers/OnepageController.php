@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Checkout
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Checkout_OnepageController extends Mage_Checkout_Controller_Action
 {

@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Index
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Index_Adminhtml_ProcessController extends Mage_Adminhtml_Controller_Action
 {

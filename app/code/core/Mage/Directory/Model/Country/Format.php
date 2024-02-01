@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Directory
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Directory_Model_Resource_Country_Format _getResource()
  * @method Mage_Directory_Model_Resource_Country_Format getResource()

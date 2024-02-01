@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Weee
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Weee_Model_Observer extends Mage_Core_Model_Abstract
 {

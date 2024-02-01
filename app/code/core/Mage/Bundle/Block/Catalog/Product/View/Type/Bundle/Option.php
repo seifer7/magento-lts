@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Bundle
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Catalog_Model_Product getFormatProduct()
  * @method $this setFormatProduct(Mage_Catalog_Model_Product $value)

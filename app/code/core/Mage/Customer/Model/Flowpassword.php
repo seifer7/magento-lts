@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Customer
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Customer_Model_Resource_Flowpassword_Collection getCollection()
  * @method $this setEmail(string $value)

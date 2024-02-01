@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Paypal
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Paypal_Helper_Hss extends Mage_Core_Helper_Abstract
 {

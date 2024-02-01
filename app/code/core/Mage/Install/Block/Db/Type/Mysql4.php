@@ -17,6 +17,7 @@
  *
  * @category   Mage
  * @package    Mage_Install
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Install_Block_Db_Type_Mysql4 extends Mage_Install_Block_Db_Type
 {

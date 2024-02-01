@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Authorizenet
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Authorizenet_Block_Directpost_Form extends Mage_Payment_Block_Form_Cc
 {

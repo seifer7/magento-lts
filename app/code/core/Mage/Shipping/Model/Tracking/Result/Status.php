@@ -36,6 +36,7 @@
  *
  * @category   Mage
  * @package    Mage_Shipping
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Shipping_Model_Tracking_Result_Status extends Mage_Shipping_Model_Tracking_Result_Abstract
 {

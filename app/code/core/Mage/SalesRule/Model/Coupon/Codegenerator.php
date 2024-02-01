@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_SalesRule
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string getAlphabet()
  * @method int getLength()

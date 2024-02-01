@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Rule
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string|false getAttribute()
  * @method $this setAttribute(string|false $value)

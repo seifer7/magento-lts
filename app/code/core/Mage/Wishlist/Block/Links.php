@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Wishlist
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Wishlist_Block_Links extends Mage_Page_Block_Template_Links_Block
 {

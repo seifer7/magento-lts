@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Oauth
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Oauth_Adminhtml_Oauth_AuthorizeController extends Mage_Adminhtml_Controller_Action
 {

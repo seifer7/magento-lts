@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Tag
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method int getTagId()
  * @method $this setTagId(int $value)

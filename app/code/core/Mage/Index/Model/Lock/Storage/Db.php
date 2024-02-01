@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Index
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Index_Model_Lock_Storage_Db implements Mage_Index_Model_Lock_Storage_Interface
 {

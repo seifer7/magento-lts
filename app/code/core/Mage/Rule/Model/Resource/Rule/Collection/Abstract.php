@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Rule
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 abstract class Mage_Rule_Model_Resource_Rule_Collection_Abstract extends Mage_Core_Model_Resource_Db_Collection_Abstract
 {

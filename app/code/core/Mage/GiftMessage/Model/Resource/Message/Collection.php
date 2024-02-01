@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_GiftMessage
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_GiftMessage_Model_Resource_Message_Collection extends Mage_Core_Model_Resource_Db_Collection_Abstract
 {

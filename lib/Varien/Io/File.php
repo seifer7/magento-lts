@@ -18,6 +18,7 @@
  *
  * @category   Varien
  * @package    Varien_Io
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Varien_Io_File extends Varien_Io_Abstract
 {

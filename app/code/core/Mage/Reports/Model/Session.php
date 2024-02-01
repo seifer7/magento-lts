@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Reports
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this unsData(string $value)
  */

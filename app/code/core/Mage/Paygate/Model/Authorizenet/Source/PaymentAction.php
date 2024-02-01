@@ -19,6 +19,7 @@
  *
  * @category   Mage
  * @package    Mage_Paygate
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Paygate_Model_Authorizenet_Source_PaymentAction
 {

@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_GiftMessage
+ * @author     Magento Core Team <core@magentocommerce.com>
  * @deprecated after 1.3.2.4
  */
 class Mage_GiftMessage_IndexController extends Mage_Core_Controller_Front_Action

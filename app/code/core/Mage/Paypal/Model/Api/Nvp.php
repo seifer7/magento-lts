@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Adminhtml
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @TODO: move some parts to abstract, don't hesitate to throw exceptions on api calls
  */

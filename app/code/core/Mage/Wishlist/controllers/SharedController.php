@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Wishlist
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Wishlist_SharedController extends Mage_Wishlist_Controller_Abstract
 {

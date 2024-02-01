@@ -16,6 +16,7 @@
 /**
  * Csv parse
  *
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Varien_File_Transfer_Adapter_Http
 {

@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_AdminNotification
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_AdminNotification_Model_Resource_Inbox _getResource()
  * @method Mage_AdminNotification_Model_Resource_Inbox getResource()

@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Persistent
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Persistent_Model_Resource_Session extends Mage_Core_Model_Resource_Db_Abstract
 {

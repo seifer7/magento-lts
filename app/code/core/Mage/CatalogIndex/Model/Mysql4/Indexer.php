@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_CatalogIndex
+ * @author     Magento Core Team <core@magentocommerce.com>
  * @deprecated
  */
 class Mage_CatalogIndex_Model_Mysql4_Indexer extends Mage_CatalogIndex_Model_Resource_Indexer

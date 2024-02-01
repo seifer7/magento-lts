@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Authorizenet
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Authorizenet_Directpost_PaymentController extends Mage_Core_Controller_Front_Action
 {

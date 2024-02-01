@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Weee
+ * @author     Magento Core Team <core@magentocommerce.com>
  * @deprecated
  */
 class Mage_Weee_Model_Mysql4_Setup extends Mage_Weee_Model_Resource_Setup

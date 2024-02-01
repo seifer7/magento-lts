@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Index
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 interface Mage_Index_Model_Lock_Storage_Interface
 {

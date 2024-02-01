@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Catalog
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Catalog_Helper_Category_Url_Rewrite implements Mage_Catalog_Helper_Category_Url_Rewrite_Interface
 {

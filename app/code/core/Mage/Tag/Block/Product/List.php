@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Tag
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Tag_Block_Product_List extends Mage_Core_Block_Template
 {

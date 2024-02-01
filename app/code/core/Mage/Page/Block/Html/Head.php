@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Page
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setCanLoadCalendarJs(bool $value)
  * @method $this setDescription(string $value)

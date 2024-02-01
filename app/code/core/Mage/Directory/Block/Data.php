@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Directory
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method int getRegionId()
  */

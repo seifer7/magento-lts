@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Catalog
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setCollection(Mage_Catalog_Model_Resource_Product_Collection $value)
  */

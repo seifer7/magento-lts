@@ -17,6 +17,7 @@
  *
  * @category   Mage
  * @package    Mage_Tax
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Tax_Model_Sales_Total_Quote_Nominal_Tax extends Mage_Tax_Model_Sales_Total_Quote_Tax
 {

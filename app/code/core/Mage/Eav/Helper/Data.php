@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Eav
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Eav_Helper_Data extends Mage_Core_Helper_Abstract
 {

@@ -18,6 +18,7 @@
  *
  * @category   Varien
  * @package    Varien_Object
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Varien_Object implements ArrayAccess
 {

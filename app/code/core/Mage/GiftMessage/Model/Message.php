@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_GiftMessage
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_GiftMessage_Model_Resource_Message _getResource()
  * @method Mage_GiftMessage_Model_Resource_Message getResource()

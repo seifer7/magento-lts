@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Bundle
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Bundle_Model_Resource_Selection _getResource()
  * @method Mage_Bundle_Model_Resource_Selection getResource()

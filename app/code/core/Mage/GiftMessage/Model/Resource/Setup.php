@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_GiftMessage
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_GiftMessage_Model_Resource_Setup extends Mage_Sales_Model_Resource_Setup
 {

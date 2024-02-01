@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Rating
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Rating_Helper_Data extends Mage_Core_Helper_Abstract
 {

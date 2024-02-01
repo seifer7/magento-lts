@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Customer
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Customer_Model_Api_Resource extends Mage_Api_Model_Resource_Abstract
 {

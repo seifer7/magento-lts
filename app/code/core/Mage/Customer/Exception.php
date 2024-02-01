@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Customer
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Customer_Exception extends Mage_Core_Exception
 {

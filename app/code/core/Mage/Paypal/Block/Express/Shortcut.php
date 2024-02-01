@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Paypal
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string getShortcutHtmlId()
  * @method string getImageUrl()

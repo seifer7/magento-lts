@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Admin
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Admin_Model_Resource_Variable extends Mage_Core_Model_Resource_Db_Abstract
 {
