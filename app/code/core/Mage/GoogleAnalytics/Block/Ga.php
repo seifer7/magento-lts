@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_GoogleAnalytics
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_GoogleAnalytics_Block_Ga extends Mage_Core_Block_Template
 {

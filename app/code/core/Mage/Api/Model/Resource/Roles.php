@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Api
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Api_Model_Resource_Roles extends Mage_Core_Model_Resource_Db_Abstract
 {

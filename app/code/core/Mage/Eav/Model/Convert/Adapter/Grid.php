@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Eav
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setExceptionLocation(string $string)
  */

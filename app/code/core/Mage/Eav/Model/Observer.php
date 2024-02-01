@@ -23,6 +23,7 @@
  *
  * @category   Mage
  * @package    Mage_Eav
+ * @author     David Hiendl
  */
 class Mage_Eav_Model_Observer
 {

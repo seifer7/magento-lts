@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_CatalogRule
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setAttributeOption(array $value)
  * @method $this setOperatorOption(array $value)

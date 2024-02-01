@@ -16,6 +16,7 @@
 /**
  * @category   Mage
  * @package    Mage_Eav
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method string getLastId()
  * @method string getPrefix()

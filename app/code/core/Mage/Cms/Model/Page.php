@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Cms
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Cms_Model_Resource_Page _getResource()
  * @method Mage_Cms_Model_Resource_Page getResource()

@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Adminhtml
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method array getGroups()
  * @method $this setGroups(array $value)

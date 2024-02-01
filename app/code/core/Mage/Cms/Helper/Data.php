@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Cms
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Cms_Helper_Data extends Mage_Core_Helper_Abstract
 {

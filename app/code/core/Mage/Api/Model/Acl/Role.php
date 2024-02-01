@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Api
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method Mage_Api_Model_Resource_Role _getResource()
  * @method Mage_Api_Model_Resource_Role getResource()

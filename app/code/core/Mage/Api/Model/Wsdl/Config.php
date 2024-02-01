@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Api
+ * @author     Magento Core Team <core@magentocommerce.com>
  */
 class Mage_Api_Model_Wsdl_Config extends Mage_Api_Model_Wsdl_Config_Base
 {

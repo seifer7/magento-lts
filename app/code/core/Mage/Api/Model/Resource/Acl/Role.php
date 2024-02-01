@@ -18,6 +18,7 @@
  *
  * @category   Mage
  * @package    Mage_Api
+ * @author     Magento Core Team <core@magentocommerce.com>
  *
  * @method $this setCreated(string $value)
  */
